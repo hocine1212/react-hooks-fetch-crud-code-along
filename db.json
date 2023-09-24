@@ -1,40 +1,22 @@
 {
   "items": [
     {
-      "id": 1,
-      "name": "Yogurt",
+      "name": "aced",
       "category": "Dairy",
-      "isInCart": false
+      "isInCart": false,
+      "id": 15
     },
     {
-      "id": 2,
-      "name": "Pomegranate",
+      "name": "aabbcc",
+      "category": "Dairy",
+      "isInCart": true,
+      "id": 16
+    },
+    {
+      "name": "melon",
       "category": "Produce",
-      "isInCart": false
-    },
-    {
-      "id": 3,
-      "name": "Lettuce",
-      "category": "Produce",
-      "isInCart": false
-    },
-    {
-      "id": 4,
-      "name": "String Cheese",
-      "category": "Dairy",
-      "isInCart": false
-    },
-    {
-      "id": 5,
-      "name": "Swiss Cheese",
-      "category": "Dairy",
-      "isInCart": false
-    },
-    {
-      "id": 6,
-      "name": "Cookies",
-      "category": "Dessert",
-      "isInCart": false
+      "isInCart": false,
+      "id": 17
     }
   ]
 }
